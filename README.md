@@ -13,3 +13,5 @@ pipenv install
 ```bash
 pip install -r requirements.txt
 ```
+## Autor
+Proyectos realizados de la mano de Héctor Costa 
